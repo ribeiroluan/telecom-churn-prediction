@@ -1,1 +1,1 @@
-"# telecom-churn-prediction" 
+## Project details can be found inside the jupyter notebook
